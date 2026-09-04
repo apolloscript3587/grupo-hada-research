@@ -8,60 +8,57 @@ Los registros de importación de 2026 muestran una red de compradores estadounid
 
 ## 1. Keefe: hallazgo especialmente importante
 
-La investigación permitió vincular **Keefe Group** con las marcas **Elementz** e **Infuzed** mediante fuentes independientes.
+La investigación permitió vincular **Keefe Group** con las marcas **Elementz**, **Infuzed** y **Next 1** mediante fuentes independientes.
 
 ### Elementz
 
-DailyMed registra **ELEMENTZ pyrithione zinc shampoo**, NDC 51870-007-15, 443 mL, como medicamento OTC de uso tópico. El **packager/labeler es Keefe Group** y la etiqueta vigente consultada fue revisada en enero de 2024. citeturn1search1turn1search2
+DailyMed registra **ELEMENTZ pyrithione zinc shampoo**, NDC 51870-007-15, 443 mL, como medicamento OTC de uso tópico. El **packager/labeler es Keefe Group** y la etiqueta vigente consultada fue revisada en enero de 2024. citeturn0search10turn0search11
 
-Una fuente que reproduce la etiqueta indica además **“Made in Colombia”** y “Distributed by Keefe Supply Company”, y muestra Elementz como champú anticaspa con piritionato de zinc, aceite de almendras y manteca de karité. citeturn1search4
+Una reproducción de la etiqueta muestra **“Made in Colombia”**, “Distributed by Keefe Supply Company” y Elementz como champú anticaspa con piritionato de zinc, aceite de almendras y manteca de karité. citeturn0search14
 
-Además, el registro de marca estadounidense de **ELEMENTZ** pertenece a **Keefe Group, LLC** y cubre, entre otros, desodorantes, jabones, lociones corporales, humectantes, body wash y geles capilares. citeturn1search10
+Además, el registro de marca estadounidense de **ELEMENTZ** pertenece a **Keefe Group, LLC** y cubre, entre otros, desodorantes, jabones, lociones corporales, humectantes, body wash y geles capilares.
 
-Esto es importante porque los registros de comercio de 2026 muestran a **Hada International S.A.** como proveedor de Keefe para productos Elementz, por ejemplo Elementz Thick Algin, Dandruff, 3-in-1 Cocolime, Invigor D'Sea y otros productos líquidos. citeturn0search6turn0search4
+Los registros de comercio de 2026 muestran a **Hada International S.A.** como proveedor de Keefe para productos Elementz, incluyendo Thick Algin, Dandruff, 3-in-1 Cocolime, Invigor D'Sea, Revital Alg, Aloe y otros productos líquidos. citeturn1search0turn1search2
 
 ### Infuzed
 
-El mismo registro estadounidense de marcas identifica **INFUZED** como marca de **Centric Group, L.L.C.**, y su descripción cubre desodorantes, jabones, lociones, humectantes, body wash y geles capilares. citeturn1search10
+Los registros comerciales muestran a Hada International como proveedor de Keefe para productos Infuzed, incluyendo Shea Butter, Coconut Lime y Cocoa & Shea Butter. citeturn1search0turn1search2
 
-En 2026, los conocimientos de embarque muestran a Hada International como proveedor de Keefe para productos Infuzed, incluyendo Shea Butter, Coconut Lime y Cocoa & Shea Butter. citeturn0search6turn0search4
+### Next 1 — evidencia regulatoria especialmente fuerte
 
-### Next
+DailyMed registra **NEXT 1 Anti-bacterial Deodorant Bar Soap**, NDC 51870-004-05, 142 g, con Keefe Group como labeler. La etiqueta indica **“MADE IN COLOMBIA”** y distribuidor Olivette Products, L.L.C. citeturn0search0turn0search3
 
-Los embarques de 2026 identifican repetidamente:
+También existe un producto **NEXT1 Anti-bacterial Deodorant Sport Bar**, NDC 51870-003, 142 g, cuya etiqueta vigente indica igualmente **“MADE IN COLOMBIA”**. citeturn0search1turn0search7
 
-- Next Sport Bar, 142 g.
-- Next Moisturizing, 142 g.
-- Next Coco Butter, 142 g.
-- Next Deodorant.
+Esto cruza de forma muy fuerte con los embarques Hada→Keefe de 2026, que identifican repetidamente Next Sport Bar 142 g, Next Moisturizing 142 g y Next Coco Butter 142 g. citeturn1search2turn1search9
 
-Hay embarques de aproximadamente 1.511 cajas y 18–19 toneladas. El 27 de abril de 2026, por ejemplo, aparece Next Coco Butter con 17.891 kg y 1.511 cajas. citeturn0search0turn0search8
+**Conclusión:** la evidencia ya permite clasificar **Hada → Keefe → Next 1** como una cadena comercial de alta confianza y con evidencia regulatoria de que al menos los productos Next 1 antibacteriales comercializados por Keefe son fabricados en Colombia. La documentación consultada todavía no imprime el nombre Hada directamente en la etiqueta Next, por lo que el salto exacto “Hada es el fabricante físico de cada NDC Next” debe conservarse como atribución de alta probabilidad, no como hecho absoluto.
 
-La evidencia comercial también muestra embarques de Next Sport Bar a Keefe durante enero, abril y junio de 2026, con 1.511 cajas por carga en varios casos. citeturn1search8
+## 2. Made in Colombia: comparación Elementz vs. Next
 
-**Conclusión:** Keefe no es simplemente un comprador genérico de jabón. Existe una red de marcas propias/administradas por Keefe o su grupo y Hada aparece como proveedor en 2026. El vínculo Hada → Keefe → Elementz/Infuzed/Next merece una investigación propia.
-
-## 2. Made in Colombia: evidencia que conecta Elementz con Colombia
-
-Este es uno de los cruces más interesantes encontrados hasta ahora:
+El cruce actual es:
 
 ```text
-ELEMENTZ
-   │
-   ├── Marca: Keefe Group, LLC
-   ├── NDC 51870-007-15
-   ├── Labeler/packager: Keefe Group
-   ├── Made in Colombia
+NEXT 1
+   ├── Keefe Group — labeler
+   ├── NDC 51870-004 / 51870-003
+   ├── MADE IN COLOMBIA
    └── Hada International → Keefe
-           │
-           └── embarques 2026 de productos Elementz
+          └── embarques 2026 de Next 142 g
+
+ELEMENTZ
+   ├── Keefe Group — labeler
+   ├── NDC 51870-007-15
+   ├── MADE IN COLOMBIA
+   └── Hada International → Keefe
+          └── embarques 2026 de Elementz
 ```
 
-La etiqueta de Elementz no nombra a Hada en la fuente secundaria consultada, por lo que **todavía no debe escribirse “Hada fabrica el Elementz NDC 51870-007-15” como hecho confirmado**. Sin embargo, la coincidencia de “Made in Colombia” con los embarques Hada→Keefe y las descripciones Elementz constituye una pista de alto valor para cruzar con el expediente regulatorio/fabricante del NDC. citeturn1search4turn0search6
+La combinación de etiquetas regulatorias, país de fabricación y registros Hada→Keefe convierte a Colombia en un nodo muy fuerte de la cadena de suministro de las marcas Keefe. Sin embargo, no debe confundirse **país de fabricación** con **nombre del fabricante**, porque las etiquetas consultadas no identifican expresamente a Hada. citeturn0search14turn0search3turn1search2
 
 ## 3. Henkel / Dial — evidencia 2026
 
-Los registros de 2026 muestran a Hada International como proveedor de Henkel y describen productos Dial antibacterial, incluidos Dial Ant Gold, Dial Ant Lavender & Jasmine, Dial Ant Bar White y Dial Ant Spring Water. La ventana agregada registra 4 embarques para Henkel US Operations Corp. y 2 para Henkel Corp. citeturn0search4turn1search7
+Los registros de 2026 muestran a Hada International como proveedor de Henkel y describen productos Dial antibacterial, incluidos Dial Ant Gold, Dial Ant Lavender & Jasmine, Dial Ant Bar White y Dial Ant Spring Water. La ventana agregada registra 4 embarques para Henkel US Operations Corp. y 2 para Henkel Corp. citeturn1search0
 
 **Conclusión:** existe evidencia comercial directa de 2026 de Hada ↔ Henkel/Dial; la relación no debe clasificarse únicamente como histórica.
 
@@ -73,72 +70,53 @@ Los registros de comercio de 2026 muestran a Hada International como proveedor d
 
 ## 5. Colgate-Palmolive / Protex — doble evidencia
 
-En junio de 2026 aparecen cargas de **Protex Complete Antibacterial** desde Hada International hacia Colgate Palmolive Metro Office Park, Puerto Rico. Las descripciones incluyen paquetes de 3 y 6 unidades. citeturn1search9
+En junio de 2026 aparecen cargas de **Protex Complete Antibacterial** desde Hada International hacia Colgate Palmolive Metro Office Park, Puerto Rico. Las descripciones incluyen paquetes de 3 y 6 unidades.
 
-Este hallazgo coincide con el registro regulatorio de DailyMed, donde Colgate-Palmolive es el labeler y HADA International S.A. figura como fabricante para NDC 35000-069.
+Esto coincide con el registro regulatorio de DailyMed, donde Colgate-Palmolive es el labeler y HADA International S.A. figura como fabricante para NDC 35000-069.
 
 **Conclusión:** Protex continúa siendo uno de los vínculos Hada→cliente→SKU mejor demostrados del proyecto.
 
 ## 6. Color Wow / Dream Coat — nueva pista 2026
 
-Los registros de comercio de Hada contienen dos exportaciones a EE. UU. del **5 y 6 de agosto de 2026** con las descripciones exactas `SPRAY DREAM COAT 703-2 75ML` y `SPRAY DREAM COAT 703-2 50ML`, bajo HS 330590. El comprador aparece anonimizado como `L***.` en la fuente consultada. citeturn1search0
+Los registros de comercio de Hada contienen exportaciones a EE. UU. del **5 y 6 de agosto de 2026** con las descripciones exactas `SPRAY DREAM COAT 703-2 75ML` y `SPRAY DREAM COAT 703-2 50ML`, bajo HS 330590. El comprador aparece anonimizado como `L***.` en la fuente consultada. citeturn1search3
 
-La cadena de evidencia permite identificar con bastante seguridad el producto comercial: **Color Wow Dream Coat Supernatural Spray** utiliza la fórmula **F#703-2**, y fuentes comerciales independientes muestran esa misma fórmula para las presentaciones de 50 ml y 200 ml. citeturn1search2turn1search3
+La cadena de evidencia permite identificar con bastante seguridad el producto comercial: **Color Wow Dream Coat Supernatural Spray** utiliza la fórmula **F#703-2**, y la web oficial de Color Wow muestra esa misma fórmula. citeturn2search8
 
-Sin embargo, **esto todavía no prueba por sí solo que Hada sea el fabricante de Color Wow Dream Coat**. La descripción aduanera demuestra que Hada exportó mercancía identificada como Dream Coat 703-2, pero el fabricante de la marca se presenta públicamente como Color Wow/Federici Brands, y L'Oréal figura como responsable en determinados mercados. Por ahora la clasificación correcta es **“evidencia comercial fuerte de Hada → Dream Coat; fabricante exacto pendiente de corroboración primaria”**. citeturn1search3
+Además, fuentes comerciales actuales indican que el producto F#703-2 se fabrica en Reino Unido o Canadá según mercado/presentación, mientras una fuente de producto estadounidense identifica a Federici Brands LLC como fabricante. Esto hace que el caso sea más complejo y evita concluir que Hada sea necesariamente el fabricante físico. citeturn2search0turn2search2
 
-### Valor investigativo del hallazgo
-
-Este caso es especialmente útil porque conecta tres identificadores distintos:
-
-```text
-Hada International
-      │
-      └── Exportación 2026
-             │
-             ├── DREAM COAT 703-2 75 ML
-             └── DREAM COAT 703-2 50 ML
-                       │
-                       └── F#703-2
-                              │
-                              └── Color Wow Dream Coat
-```
-
-El siguiente paso es buscar el importador estadounidense, la etiqueta del producto vendido en EE. UU. y cualquier registro de fabricante/establecimiento que permita pasar de **“Hada exportó el producto”** a **“Hada lo fabricó”**.
+**Clasificación actual:** evidencia comercial fuerte de **Hada → mercancía identificada como Dream Coat 703-2**, pero **fabricante exacto de esa exportación pendiente de corroboración**.
 
 ## 7. País de origen y fabricante físico
 
-Los registros de Keefe contienen una anomalía logística importante: algunas líneas muestran **CHINA** como origen junto con Hada como proveedor, mientras otras muestran **COLUMBIA/Colombia**. Además, los puertos de carga y de entrada varían.
+Los registros de Keefe contienen una anomalía logística importante: algunas líneas muestran **CHINA** como origen junto con Hada como proveedor, mientras otras muestran **COLUMBIA/Colombia**. Además, los puertos de carga y de entrada varían. citeturn1search2turn1search9
 
 Por tanto, para el mapa definitivo deben mantenerse separados:
 
 `proveedor declarado` ≠ `fabricante físico` ≠ `país de origen declarado` ≠ `puerto de carga`.
 
-Hay evidencia independiente de que al menos algunos productos Elementz son “Made in Colombia”, pero aún no permite atribuir cada línea de comercio Hada→Keefe a Barranquilla. citeturn1search4turn0search1
+La nueva evidencia de Next y Elementz demuestra que productos comercializados por Keefe llevan “Made in Colombia”, pero eso por sí solo no sustituye la identificación documental del fabricante. citeturn0search14turn0search3
 
 ## 8. Escala comercial actual
 
-ImportInfo, actualizado en septiembre de 2026, muestra asociaciones recientes de Hada International con **Henkel US Operations Corporation, Keefe Supply Company, Henkel Corporation, The Procter & Gamble Manufacturing Company, Keefe Group y Colgate Palmolive SA de CV**, todas con embarques recientes registrados en agosto de 2026. La misma fuente lista también Cosméticos Trujillo, L'Oréal USA Products, IFF, Sensient y otros socios comerciales. citeturn0search4
-
-Esto no significa que cada asociación corresponda a un producto terminado fabricado por Hada: la base registra relaciones de embarque y puede incluir materias primas, componentes u operaciones logísticas. Sirve, no obstante, para priorizar qué cadenas cliente/producto investigar.
+Mati identifica 11 embarques Hada a EE. UU. entre el 2 de enero y el 24 de julio de 2026, con 4 compradores y 190,7 TEU; los principales compradores de esa ventana son Henkel US Operations Corp., Keefe Supply Company, Henkel Corp. y Keefe Group LLC. citeturn1search0
 
 ## 9. Nuevos objetivos de investigación
 
-1. Buscar el fabricante declarado del NDC **51870-007-15** en fuentes FDA/DailyMed/XML históricas y registros regulatorios relacionados.
-2. Identificar los NDC o UPC de **Next Sport, Next Moisturizing, Next Coco Butter y Next Deodorant**.
-3. Buscar etiquetas de **Infuzed** que indiquen país de fabricación.
-4. Cruzar UPC/GTIN con los embarques Hada→Keefe.
-5. Determinar si los productos líquidos Elementz/Infuzed de 2026 corresponden a fórmulas fabricadas en Colombia o a mercancía de terceros gestionada por Hada.
-6. Identificar al comprador real detrás de `L***.` en los embarques Dream Coat 703-2 y cruzarlo con Color Wow/L'Oréal.
-7. Buscar evidencia primaria de fabricante para Dream Coat F#703-2.
-8. Revisar los embarques de agosto de 2026 de Hada para descubrir nuevas marcas/productos además de Next, Elementz, Infuzed y Dream Coat.
+1. Identificar el fabricante físico declarado para los NDC **51870-004-05**, **51870-003** y **51870-007-15**.
+2. Buscar UPC/GTIN de Next Sport, Next Moisturizing y Next Coco Butter y cruzarlos con registros de fabricante.
+3. Buscar etiquetas de Infuzed que indiquen país de fabricación.
+4. Identificar el comprador real detrás de `L***.` en Dream Coat 703-2.
+5. Buscar documentación primaria que explique por qué Hada aparece como exportador de Dream Coat mientras fuentes de producto señalan producción en Reino Unido/Canadá.
+6. Revisar todos los embarques Hada→EE. UU. de agosto de 2026 para detectar nuevas marcas y productos.
+7. Cruzar la red Hada–Keefe con las marcas registradas de Keefe/Centric Group.
 
 ## 10. Fuentes principales de esta actualización
 
-- Mati Logistics: actividad de Hada International y compradores 2026. citeturn0search1
-- ImportInfo: asociaciones y embarques recientes de Hada International. citeturn0search4
-- NBD: exportaciones Hada→EE. UU. de Next y Dream Coat 703-2 en agosto de 2026. citeturn1search0
-- Seair: detalle de productos y embarques Hada→Keefe/P&G/Colgate. citeturn0search5
-- DailyMed: etiqueta oficial Elementz NDC 51870-007-15.
-- Registros de marca ELEMENTZ/INFUZED.
-- Fuentes comerciales de Color Wow Dream Coat que identifican la fórmula F#703-2. citeturn1search2turn1search3
+- DailyMed: NEXT 1 Anti-bacterial Deodorant, NDC 51870-004-05. citeturn0search0turn0search3
+- DailyMed: NEXT1 Anti-bacterial Deodorant Sport, NDC 51870-003. citeturn0search1turn0search7
+- DailyMed: ELEMENTZ, NDC 51870-007-15. citeturn0search10turn0search11
+- OTCLabels: etiquetas Next/Elementz y país de fabricación. citeturn0search4turn0search14
+- Seair: Hada→Keefe, 2026. citeturn1search2
+- Mati: actividad Hada→EE. UU., 2026. citeturn1search0
+- NBD: exportaciones Hada, incluido Dream Coat 703-2. citeturn1search3
+- Color Wow: fórmula oficial F#703-2. citeturn2search8
