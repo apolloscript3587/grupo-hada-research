@@ -49,13 +49,9 @@ Este es uno de los cruces más interesantes encontrados hasta ahora:
 ELEMENTZ
    │
    ├── Marca: Keefe Group, LLC
-   │
    ├── NDC 51870-007-15
-   │
    ├── Labeler/packager: Keefe Group
-   │
    ├── Made in Colombia
-   │
    └── Hada International → Keefe
            │
            └── embarques 2026 de productos Elementz
@@ -83,7 +79,34 @@ Este hallazgo coincide con el registro regulatorio de DailyMed, donde Colgate-Pa
 
 **Conclusión:** Protex continúa siendo uno de los vínculos Hada→cliente→SKU mejor demostrados del proyecto.
 
-## 6. País de origen y fabricante físico
+## 6. Color Wow / Dream Coat — nueva pista 2026
+
+Los registros de comercio de Hada contienen dos exportaciones a EE. UU. del **5 y 6 de agosto de 2026** con las descripciones exactas `SPRAY DREAM COAT 703-2 75ML` y `SPRAY DREAM COAT 703-2 50ML`, bajo HS 330590. El comprador aparece anonimizado como `L***.` en la fuente consultada. citeturn1search0
+
+La cadena de evidencia permite identificar con bastante seguridad el producto comercial: **Color Wow Dream Coat Supernatural Spray** utiliza la fórmula **F#703-2**, y fuentes comerciales independientes muestran esa misma fórmula para las presentaciones de 50 ml y 200 ml. citeturn1search2turn1search3
+
+Sin embargo, **esto todavía no prueba por sí solo que Hada sea el fabricante de Color Wow Dream Coat**. La descripción aduanera demuestra que Hada exportó mercancía identificada como Dream Coat 703-2, pero el fabricante de la marca se presenta públicamente como Color Wow/Federici Brands, y L'Oréal figura como responsable en determinados mercados. Por ahora la clasificación correcta es **“evidencia comercial fuerte de Hada → Dream Coat; fabricante exacto pendiente de corroboración primaria”**. citeturn1search3
+
+### Valor investigativo del hallazgo
+
+Este caso es especialmente útil porque conecta tres identificadores distintos:
+
+```text
+Hada International
+      │
+      └── Exportación 2026
+             │
+             ├── DREAM COAT 703-2 75 ML
+             └── DREAM COAT 703-2 50 ML
+                       │
+                       └── F#703-2
+                              │
+                              └── Color Wow Dream Coat
+```
+
+El siguiente paso es buscar el importador estadounidense, la etiqueta del producto vendido en EE. UU. y cualquier registro de fabricante/establecimiento que permita pasar de **“Hada exportó el producto”** a **“Hada lo fabricó”**.
+
+## 7. País de origen y fabricante físico
 
 Los registros de Keefe contienen una anomalía logística importante: algunas líneas muestran **CHINA** como origen junto con Hada como proveedor, mientras otras muestran **COLUMBIA/Colombia**. Además, los puertos de carga y de entrada varían.
 
@@ -93,19 +116,29 @@ Por tanto, para el mapa definitivo deben mantenerse separados:
 
 Hay evidencia independiente de que al menos algunos productos Elementz son “Made in Colombia”, pero aún no permite atribuir cada línea de comercio Hada→Keefe a Barranquilla. citeturn1search4turn0search1
 
-## 7. Nuevos objetivos de investigación
+## 8. Escala comercial actual
+
+ImportInfo, actualizado en septiembre de 2026, muestra asociaciones recientes de Hada International con **Henkel US Operations Corporation, Keefe Supply Company, Henkel Corporation, The Procter & Gamble Manufacturing Company, Keefe Group y Colgate Palmolive SA de CV**, todas con embarques recientes registrados en agosto de 2026. La misma fuente lista también Cosméticos Trujillo, L'Oréal USA Products, IFF, Sensient y otros socios comerciales. citeturn0search4
+
+Esto no significa que cada asociación corresponda a un producto terminado fabricado por Hada: la base registra relaciones de embarque y puede incluir materias primas, componentes u operaciones logísticas. Sirve, no obstante, para priorizar qué cadenas cliente/producto investigar.
+
+## 9. Nuevos objetivos de investigación
 
 1. Buscar el fabricante declarado del NDC **51870-007-15** en fuentes FDA/DailyMed/XML históricas y registros regulatorios relacionados.
 2. Identificar los NDC o UPC de **Next Sport, Next Moisturizing, Next Coco Butter y Next Deodorant**.
-3. Buscar los registros de marca de **NEXT** relacionados con Keefe/Centric Group.
-4. Buscar etiquetas de **Infuzed** que indiquen país de fabricación.
-5. Cruzar UPC/GTIN con los embarques Hada→Keefe.
-6. Determinar si los productos líquidos Elementz/Infuzed de 2026 corresponden a fórmulas fabricadas en Colombia o a mercancía de terceros gestionada por Hada.
+3. Buscar etiquetas de **Infuzed** que indiquen país de fabricación.
+4. Cruzar UPC/GTIN con los embarques Hada→Keefe.
+5. Determinar si los productos líquidos Elementz/Infuzed de 2026 corresponden a fórmulas fabricadas en Colombia o a mercancía de terceros gestionada por Hada.
+6. Identificar al comprador real detrás de `L***.` en los embarques Dream Coat 703-2 y cruzarlo con Color Wow/L'Oréal.
+7. Buscar evidencia primaria de fabricante para Dream Coat F#703-2.
+8. Revisar los embarques de agosto de 2026 de Hada para descubrir nuevas marcas/productos además de Next, Elementz, Infuzed y Dream Coat.
 
-## 8. Fuentes principales de esta actualización
+## 10. Fuentes principales de esta actualización
 
-- Mati Logistics: actividad de Hada International y compradores 2026. citeturn1search7
-- ImportGenius: historial de Keefe Group y embarques Hada→Keefe. citeturn0search0
-- Seair: detalle de productos y embarques Hada→Keefe. citeturn0search6turn1search8
-- DailyMed: etiqueta oficial Elementz NDC 51870-007-15. citeturn1search1turn1search2
-- Registro de marca ELEMENTZ/INFUZED. citeturn1search10
+- Mati Logistics: actividad de Hada International y compradores 2026. citeturn0search1
+- ImportInfo: asociaciones y embarques recientes de Hada International. citeturn0search4
+- NBD: exportaciones Hada→EE. UU. de Next y Dream Coat 703-2 en agosto de 2026. citeturn1search0
+- Seair: detalle de productos y embarques Hada→Keefe/P&G/Colgate. citeturn0search5
+- DailyMed: etiqueta oficial Elementz NDC 51870-007-15.
+- Registros de marca ELEMENTZ/INFUZED.
+- Fuentes comerciales de Color Wow Dream Coat que identifican la fórmula F#703-2. citeturn1search2turn1search3
