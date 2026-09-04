@@ -5,8 +5,9 @@
 | Cliente / marca | Producto | Presentación / identificador | Fabricante | Planta / mercado | Fecha de evidencia | Confianza |
 |---|---|---|---|---|---|---|
 | Colgate-Palmolive / Protex | **Protex Complete Antibacterial Bar** | NDC 35000-069; 104,8 g; NDC 35000-069-01 / -03 / -06 | **HADA International S.A.** | Barranquilla → EE. UU. | etiqueta DailyMed vigente 2026-01-23 | **Muy alta** |
-| Hada / Dans | **Dans Anti-bacterial Bar Oat / Avena** | NDC 42377-010; 125 g; NDC 42377-010-04 / -14 | **HADA International S.A.** | Barranquilla → EE. UU. | etiqueta DailyMed, 2020 | **Muy alta** |
-| Hada / Dans | **Dans Anti-bacterial Bar Detox** | NDC 42377-012; 125 g; NDC 42377-012-04 / -14 | **HADA International S.A.** | Barranquilla → EE. UU. | etiqueta DailyMed, 2020 | **Muy alta** |
+| Hada / Dans | **Dans Anti-bacterial Bar Oat / Avena** | NDC 42377-010; 125 g; NDC 42377-010-04 / -14 | **HADA International S.A.** | Barranquilla → EE. UU. | DailyMed/label, 2020 | **Muy alta** |
+| Hada / Dans | **Dans Anti-bacterial Bar Detox** | NDC 42377-012; 125 g; NDC 42377-012-04 / -14 | **HADA International S.A.** | Barranquilla → EE. UU. | DailyMed/label, 2020 | **Muy alta** |
+| Hada / Dans | **Dans Anti-bacterial Bar Tropical Explosion** | NDC 42377-011; 125 g; NDC 42377-011-04 / -14 | **HADA International S.A.** | Barranquilla → EE. UU. | NDC Directory; comercialización terminó 2021-07-31 | **Alta** |
 | Natura | Natura Ekos jabones en barra | Buriti, Andiroba, Pitanga, Maracujá; 100 g | Hada S.A. | Barranquilla → Perú | 2017 | **Alta** |
 | Heno de Pravia / Puig | Jabón Natural Original | códigos 65036283 / 65036284; 85 g y 150 g observados | Hada International S.A. | Colombia → Perú | 2016-2018 | **Alta** |
 | Heno de Pravia / Puig | Jabón Natural con crema hidratante | 150 g | Hada International S.A. | Colombia → Perú | 2017 | **Alta** |
@@ -14,9 +15,10 @@
 | D1 / Little Angels | Gel de baño para bebé | 400 ml, extractos naturales | Grupo Hada / Hada International | Colombia | 2024 | **Media-alta** |
 | D1 / Little Angels | Aceite para bebé | 180 ml | Grupo Hada / Hada International | Colombia | 2024 | **Media-alta** |
 | Ara / marca propia | Shampoo varietal frutos rojos | presentación no confirmada | Grupo Hada International | Colombia | fuente sectorial | **Media** |
-| Ara / Cristal Ice | Enjuague bucal | presentación no confirmada | Grupo Hada International | Colombia | fuente sectorial | **Media** |
+| Ara / Cristal Ice | Enjuague bucal | Cristal Ice; presentación no confirmada | Grupo Hada International | Colombia | fuente sectorial | **Media** |
 | Justo y Bueno / marca propia | Jabón de manos para cocina con eliminador de olores | presentación no confirmada | Grupo Hada International | Colombia | fuente sectorial | **Media** |
 | Henkel / Dial | Jabón en barra | SKU no identificado | Grupo Hada | Barranquilla → EE. UU. | 2021 / histórico | **Alta para relación; baja para SKU** |
+| **Henkel / Dial** | **Jabón en barra Dial antibacterial** | descripciones aduaneras 2026 incluyen “Dial Ant Bar White”, “Dial Ant Gold”, “Dial Ant Fresh”, “Dial Ant Lav Jas” | **Hada International S.A.S.** | Barranquilla/Colombia → EE. UU. | ene-jul 2026 | **Alta para actividad; media para SKU exacto** |
 | Colgate-Palmolive / Irish Spring | Jabón en barra | SKU no identificado | Grupo Hada | Barranquilla → EE. UU. | 2021 / histórico | **Alta para relación; baja para SKU** |
 | P&G / Olay | Jabón/cuidado personal | SKU no identificado | Grupo Hada | Barranquilla → EE. UU. | 2021 / histórico | **Alta para relación; baja para SKU** |
 | Puig / Heno de Pravia | Jabón de tocador | SKU no identificado | Grupo Hada / relación histórica | Colombia/México → mercados internacionales | histórico | **Alta para relación** |
@@ -29,87 +31,86 @@
 
 ## 1. Hallazgo regulatorio: Protex
 
-El registro oficial de DailyMed para **Protex Complete Antibacterial Bar** identifica a Colgate-Palmolive como labeler y a **HADA International S.A.** como establecimiento que realiza `MANUFACTURE(35000-069)`. La etiqueta está actualizada al 23 de enero de 2026. El producto tiene NDC 35000-069 y tres códigos de paquete: -01, -03 y -06; todos corresponden a jabón de 104,8 g, individual, pack de 3 o pack de 6. citeturn4search0turn4search1
+El registro oficial de DailyMed para **Protex Complete Antibacterial Bar** identifica a Colgate-Palmolive como labeler y a **HADA International S.A.** como establecimiento que realiza `MANUFACTURE(35000-069)`. La versión vigente fue publicada en enero de 2026. El producto tiene NDC 35000-069 y tres códigos de paquete: -01, -03 y -06; corresponden a 104,8 g individual, pack de 3 y pack de 6. citeturn0search0turn0search2
 
-Este es actualmente el mejor vínculo **cliente → marca → SKU → fabricante → mercado** encontrado en la investigación.
+## 2. Tres SKU de Dans identificables por NDC
 
-## 2. Nuevo hallazgo: dos SKU de Dans con registro estadounidense
+El registro de Dans Avena identifica NDC **42377-010**, 125 g y fabricación por HADA International. La etiqueta indica explícitamente Zona Franca La Cayena, Barranquilla, Colombia. citeturn1search3
 
-DailyMed también registra **Dans Anti-bacterial Bar Oat / Avena**. HADA International aparece simultáneamente como labeler y fabricante, con NDC 42377-010. La etiqueta especifica 125 g, avena, colágeno y cloruro de benzalconio 0,1 %, y declara expresamente fabricación en Zona Franca La Cayena, Barranquilla, Colombia. citeturn5search3
+El registro Dans Detox identifica NDC **42377-012**, 125 g, con manzana/green tea, colágeno y benzalkonium chloride 0,1 %, fabricado por HADA International en Barranquilla. citeturn1search2
 
-También existe **Dans Anti-bacterial Bar Detox**, NDC 42377-012, 125 g, con manzana/green tea y colágeno. HADA International figura como labeler y fabricante, igualmente con dirección de La Cayena, Barranquilla. citeturn5search4
+Además, el NDC **42377-011** corresponde a **Dans Anti-bacterial Bar Tropical Explosion**, 125 g, con comercialización iniciada el 6 de marzo de 2020 y terminada el 31 de julio de 2021. La ficha identifica a HADA International S.A. como labeler. citeturn1search0
 
-Esto confirma que el portafolio propio de Grupo Hada tuvo productos registrados en EE. UU. bajo su propio labeler, además de fabricar para multinacionales.
+Por tanto, el bloque Dans queda documentado con **tres códigos de producto distintos: 42377-010, 42377-011 y 42377-012**.
 
-## 3. INVIMA: capacidad actual de fabricación
+## 3. Capacidad regulatoria de Hada International
 
-El listado de establecimientos con capacidad de producción de INVIMA publicado en enero de 2025 registra a **HADA INTERNATIONAL S.A.S., NIT 900388839-2**, en Zona Franca La Cayena, Barranquilla. El documento indica capacidad para formas sólidas como jabones en barra, líquidas como soluciones, emulsiones, suspensiones, lociones y aceites, y semisólidas como emulsiones, crema-geles, pomadas, ceras y geles, incluidos geles antibacteriales. La certificación indicada es del 18/10/2023. citeturn0search63
+INVIMA registra a **HADA INTERNATIONAL S.A.S., NIT 900388839-2**, en Zona Franca La Cayena, Barranquilla. La capacidad certificada cubre sólidos compactos (jabones en barra), soluciones, emulsiones, suspensiones, lociones, aceites y semisólidos como crema-geles, pomadas, ceras y geles, incluyendo áreas especiales para geles antibacteriales. La base publicada en enero de 2026 conserva una certificación con fecha 18/10/2023. citeturn0search16
 
-Esto permite conectar la evidencia de productos concretos con una capacidad regulatoria amplia, pero **no permite deducir qué cliente usa cada línea**.
+Esto es evidencia de **capacidad productiva**, no de asignación de una línea concreta a un cliente.
 
-## 4. Natura
+## 4. NUEVO HALLAZGO 2026: Dial sigue apareciendo en comercio estadounidense
 
-Los registros históricos de importación hacia Perú muestran jabones Natura Ekos de 100 g en variedades Buriti, Andiroba, Pitanga y Maracujá, con Hada S.A. como fabricante/origen desde Barranquilla. Es evidencia de producto concreto y fecha, pero no prueba producción actual de esos SKU. citeturn2search0
+Una fuente de registros de importación marítima de EE. UU., actualizada en agosto de 2026, muestra a Hada International S.A.S. con **11 embarques entre enero y julio de 2026 hacia cuatro compradores estadounidenses**. El mayor comprador registrado es **Henkel US Operations Corp.** y las descripciones aduaneras incluyen repetidamente productos como:
 
-## 5. Heno de Pravia: Colombia
+- `Bol Soap Jabopa Dial Ant Bar White`
+- `Bol Soap Jabopa Dial Ant Gold`
+- `Bol Soap Jabopa Dial Ant Fresh`
+- `Bol Soap Jabopa Dial Ant Lav Jas`
+- `Bol Soap Jabopa Next Coco Butter`
 
-Registros de comercio de 2016-2018 muestran Heno de Pravia Original de 85 g y 150 g, además de la versión con crema hidratante, enviados por Hada International desde Colombia. Algunos registros incluyen los códigos 65036283, 65036284 y 65130928. citeturn2search5turn2search4turn2search2
+La propia fuente advierte que las descripciones de aduana son transcripciones de carga y no necesariamente nombres comerciales normalizados. Por eso, la evidencia se considera fuerte para **actividad comercial Hada → Henkel y presencia de Dial en los embarques**, pero no equivale a un registro regulatorio de cada SKU. citeturn1search10
 
-Una base de comercio también muestra un envío de 172.656 unidades de Heno de Pravia Original 150 g desde Hada International a Puig Perú en 2018, código 65130928. citeturn2search3
+Este hallazgo es especialmente relevante porque desplaza Dial de una relación meramente histórica (2021) a **evidencia de comercio en 2026**.
 
-## 6. Heno de Pravia: México
+## 5. Panjiva confirma que Dial aparece entre los productos principales de Hada
 
-Los registros peruanos muestran además **Heno de Pravia Agua de Colonia Original 250 ml**, código 65114129, enviado por Cosméticos Trujillo S.A. de C.V. desde México a Perú en 2018. citeturn3search0turn3search1
+El perfil de proveedor de Hada International en Panjiva, con **1.635 registros de embarques** en la vista consultada, coloca `soap` y `dial` entre los productos principales. La fuente también clasifica la mayor parte de la actividad en HS 34 (jabones/limpieza/cera) y HS 33 (perfumería/cosmética). citeturn1search4turn1search5
 
-Esto refuerza que la relación Heno de Pravia no era únicamente de jabón y que Cosméticos Trujillo participaba en perfumería líquida.
+Debe tratarse como fuente secundaria de comercio. No sustituye el conocimiento directo de Hada ni la documentación regulatoria, pero sirve para priorizar qué relaciones investigar.
 
-## 7. D1 / Little Angels
+## 6. Relaciones históricas con multinacionales
 
-Una publicación especializada de 2024 identifica a Grupo Hada como maquilador de dos productos de la marca de bebés **Little Angels** de D1: gel de baño para bebés con extractos naturales de 400 ml y aceite para bebés de 180 ml. La misma fuente identifica fabricantes distintos para otros SKU de la línea, por lo que no debe extrapolarse a toda Little Angels. citeturn1search3
+Una investigación periodística reciente mantiene como clientes de Hada a Dial (Henkel), Colgate, Olay (P&G), Natura, Jerónimo Martins Colombia, Grupo Cala, Mercadería y Johnson & Johnson. También describe el modelo exportador de Hada y su producción de jabones en barra, tocador, base y líquidos. citeturn1search7
 
-## 8. Puig y Cosméticos Trujillo
+Estas relaciones son útiles para reconstrucción histórica, pero el nuevo registro aduanero de 2026 permite elevar **Henkel/Dial** a una categoría de evidencia más reciente.
 
-La relación México → Puig también aparece en datos de comercio recientes: registros agregados muestran a **Cosméticos Trujillo S.A. de C.V.** como proveedor de Antonio Puig S.A. en productos clasificados como perfumería, con operaciones registradas todavía en 2025 y 2026. El valor agregado reportado por la fuente es secundario y no debe tratarse como facturación oficial de Grupo Hada. citeturn3search3turn3search5
-
-Un registro histórico adicional identifica específicamente **Antonio Banderas Mediterráneo Eau de Toilette** como producto enviado por Cosméticos Trujillo a Perú en febrero de 2018. citeturn3search7
-
-## 9. Estructura de la red hasta ahora
+## 7. Estructura actualizada de la red
 
 ```text
-                         GRUPO HADA
-                              │
-            ┌─────────────────┼─────────────────┐
-            │                 │                 │
-      HADA INTERNATIONAL   HADA S.A.     COSMÉTICOS TRUJILLO
-        Barranquilla       Manizales            México
-            │                 │                 │
-       ┌────┼─────┐           │          ┌──────┼────────┐
-       │    │     │           │          │      │        │
-    Protex Dans  Heno       Natura     Heno   Puig    Perfumería
-       │    │      │          │         │      │
-   Colgate  │     Puig      Ekos       Puig  Antonio Puig
-            │      │                   │
-          Marca    Perú              Heno de Pravia
-          propia
+                              GRUPO HADA
+                                   │
+                 ┌─────────────────┼─────────────────┐
+                 │                 │                 │
+         HADA INTERNATIONAL     HADA S.A.      COSMÉTICOS TRUJILLO
+           Barranquilla        Colombia              México
+                 │                 │                 │
+        ┌────────┼────────┐        │         ┌───────┼─────────┐
+        │        │        │        │         │       │         │
+      Protex    Dans    Dial    Natura     Heno    Puig    Antonio Banderas
+        │        │        │       Ekos       │       │
+     Colgate    Hada    Henkel             Puig   Perfumería
+                         │
+                    evidencia 2026
 
-D1 → Little Angels → gel bebé 400 ml / aceite bebé 180 ml
-Ara → productos de marca propia → evidencia secundaria
-Henkel → Dial → jabón en barra → evidencia histórica
-P&G → Olay → jabón/cuidado personal → evidencia histórica
-Colgate → Irish Spring → jabón en barra → evidencia histórica
+D1 → Little Angels → gel bebé / aceite bebé
+Ara → marca propia → evidencia secundaria
+Colgate → Irish Spring → relación histórica
+P&G → Olay → relación histórica
+J&J → relación histórica
 ```
 
-## 10. Próximo objetivo
+## 8. Próxima línea de investigación
 
-La búsqueda de mayor rendimiento ahora es explotar sistemáticamente los **NDC/FEI de HADA International** y cruzarlos con DailyMed/FDA. Los dos productos Dans encontrados demuestran que esta vía puede descubrir productos que no aparecen en el catálogo corporativo actual.
+La pista más prometedora ahora es **seguir los compradores estadounidenses de Hada en 2026 y descifrar las descripciones aduaneras**. El registro de Henkel ya demuestra que esta estrategia puede encontrar actividad actual que las páginas corporativas no detallan.
 
-Después se debe repetir la estrategia con:
+Prioridades:
 
-- FDA/DailyMed.
-- INVIMA y NSO.
-- Registros mexicanos.
-- Aduanas Colombia/Perú/México.
-- Catálogos y fotografías de retailers.
-- Bases de marcas y propiedad intelectual.
+1. Identificar los otros 3 compradores estadounidenses de enero-julio de 2026.
+2. Separar descripciones `Dial`, `soap`, `bot`, `ant` y similares por embarque.
+3. Cruzar cada descripción con NDC, UPC/GTIN y catálogos de retail.
+4. Buscar evidencia equivalente para Colgate, P&G, J&J y Natura.
+5. Investigar productos de Cosméticos Trujillo en México con la misma metodología.
+6. Cruzar las marcas encontradas con registros de propiedad intelectual.
 
-El objetivo final sigue siendo una red verificable **cliente → marca → SKU → fabricante → planta → país → año → evidencia**, sin confundir relaciones históricas con clientes actuales.
+**Objetivo:** llegar a una matriz verificable `cliente → marca → SKU → fabricante → planta → comprador → país → fecha → fuente`, manteniendo separadas las relaciones actuales, históricas y las atribuidas solamente por fuentes secundarias.
