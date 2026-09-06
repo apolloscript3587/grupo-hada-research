@@ -23,10 +23,16 @@ La página oficial de clientes conserva una sección de “Marcas que fabricamos
 
 **Confianza: Alta para presencia comunicada; baja-media para actividad o SKU actual.**
 
-### 4. Vacantes públicas
-La página oficial de vacantes consultada no muestra vacantes abiertas para Barranquilla ni México en este momento, aunque mantiene habilitado el formulario para recibir hojas de vida y presenta áreas de aplicación por sede/planta. Esto no implica ausencia de contratación interna; solo indica que no hay puestos públicos listados en la página al momento de la consulta.
+### 4. Vacantes públicas — seguimiento permanente
+Se incorpora desde esta fecha una ficha específica para el seguimiento de vacantes. La página oficial de vacantes consultada no muestra vacantes abiertas para Barranquilla ni México en este momento, aunque mantiene habilitado el formulario para recibir hojas de vida y presenta áreas de aplicación por sede/planta.
 
-**Confianza: Alta.**
+**Estado observado el 06/09/2026:** sin vacantes públicas listadas para Barranquilla ni México.
+
+**Interpretación:** este estado refleja únicamente las posiciones publicadas en el portal en la fecha de consulta y no equivale a ausencia de contratación, procesos internos, posiciones confidenciales o reclutamiento por terceros.
+
+**Qué registrar en futuras rondas:** fecha de aparición/cierre, cargo, área funcional, sede/planta, modalidad, requisitos, experiencia, formación, idioma, tecnologías o certificaciones solicitadas y cualquier indicio sobre expansión, reemplazo o creación de capacidad. Las vacantes de calidad, regulatory, compras, supply chain, producción, mantenimiento, I+D y logística tendrán prioridad porque pueden aportar señales indirectas sobre operaciones y cadena de suministro.
+
+**Confianza: Alta para el estado de publicación; baja para inferir el estado real de contratación interna.**
 
 ### 5. HadaEcofire y expansión de categorías
 La revisión actual mantiene consistente la comunicación corporativa que incluye velas, ambientación y bienestar dentro del alcance del grupo. HadaEcofire debe seguir tratándose como línea activa, pero la fuente revisada en esta ronda no aportó un nuevo cliente o SKU individual verificable.
@@ -55,10 +61,18 @@ Se excluyeron como “nuevos” los hallazgos ya documentados sobre:
 - HadaEcofire como unidad de velas y ambientación.
 - La necesidad de separar fabricante físico, exportador, labeler, propietario de marca, origen y puerto.
 
+## Nueva política de seguimiento de vacantes
+
+A partir de esta actualización, las vacantes se almacenarán como una línea de investigación recurrente y se anexarán a cada actualización diaria, incluso cuando no aparezcan nuevos puestos. Cada ronda deberá indicar explícitamente el estado observado para evitar confundir “sin cambios” con una ausencia de revisión.
+
+Los nuevos cargos se compararán contra registros anteriores y no se duplicarán. Cuando una vacante reaparezca con cambios sustanciales —por ejemplo, nueva sede, requisitos, área, nivel o responsabilidades— se registrará como actualización del mismo registro y no como duplicado.
+
+Se priorizará identificar patrones temporales que puedan revelar expansión o cambios operativos, especialmente aumentos de contratación en manufactura, calidad, I+D, mantenimiento, compras, logística, regulatory y supply chain.
+
 ## Próximas líneas prioritarias
 
 1. Revisar cambios en la página oficial de clientes y comparar logotipos nuevos/eliminados.
-2. Cruzar cualquier vacante nueva con áreas críticas: calidad, supply chain, compras, regulatory y manufactura.
+2. Mantener un historial diario de vacantes y cruzar cualquier vacante nueva con áreas críticas: calidad, supply chain, compras, regulatory y manufactura.
 3. Buscar registros regulatorios SKU por SKU para marcas visibles en la web, especialmente Color Wow, Kenvue, Bepanthen, D1 y Puig.
 4. Profundizar en proveedores ecuatorianos y posibles certificados RSPO vinculados a lotes recibidos por Hada.
 5. Seguir el estado de BID Invest y de Hada Fase 5/PEI.
