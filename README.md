@@ -1,12 +1,33 @@
 # Grupo Hada — Investigación empresarial
 
-> Dossier de investigación sobre Grupo Hada, construido a partir de información pública y fuentes verificables. Última actualización: 2026-09-04.
+> Dossier de investigación sobre Grupo Hada, construido a partir de información pública y fuentes verificables. Última actualización: 2026-09-09.
 
 ## Alcance
 
-Este repositorio busca reunir, organizar y mantener trazable la información pública relevante sobre Grupo Hada: historia, estructura empresarial, operaciones, manufactura, productos/capacidades, mercados, sostenibilidad, certificaciones, presencia digital, cifras públicas y fuentes.
+Este repositorio busca reunir, organizar y mantener trazable la información pública relevante sobre Grupo Hada: historia, estructura empresarial, operaciones, manufactura, productos/capacidades, mercados, sostenibilidad, certificaciones, presencia digital, cifras públicas, clientes, proveedores, comercio exterior, regulación, propiedad intelectual, empleados, inversiones, competidores y cadena de suministro.
 
 No pretende recopilar información privada de personas. Cuando se mencionan individuos, se limita a información profesional públicamente asociada a la empresa.
+
+## Mapa temático
+
+La investigación acumulada está organizada por campos en el **[índice maestro de campos](campos/README.md)**. Este índice relaciona las investigaciones existentes sin borrar ni duplicar los documentos históricos.
+
+### Campos principales
+
+1. Empresa, historia y estructura societaria
+2. Plantas, manufactura y capacidades
+3. Clientes, marcas y productos
+4. Proveedores e insumos
+5. Comercio exterior y logística
+6. Regulatorio y calidad
+7. Propiedad intelectual y marcas registradas
+8. Empleados, talento y vacantes
+9. Finanzas e inversiones
+10. Competidores y posicionamiento
+11. Cadena de suministro
+12. Sostenibilidad, ESG y certificaciones
+13. Tecnología y presencia digital
+14. Cronología y seguimiento diario
 
 ## Resumen ejecutivo
 
@@ -18,14 +39,19 @@ En 2024 reportó ventas globales por COP 744.821 millones, presencia en 20 país
 
 Grupo Hada obtuvo la certificación como Empresa B en julio de 2023 y B Lab registra un B Impact Score de 85,6. También reporta membresías/certificaciones o alineación con RSPO, Sedex/SMETA, EcoVadis, BASC, FDA, INVIMA, Kosher, Pacto Global de Naciones Unidas, ICONTEC Carbono Neutro y otros estándares.
 
-## Índice
+## Índice base
 
+- [Mapa temático completo](campos/README.md)
 - [Perfil](empresa/perfil.md)
 - [Historia](empresa/historia.md)
 - [Estructura y entidades](empresa/estructura-empresarial.md)
+- [Registro legal y entidades](empresa/registro-legal-y-entidades.md)
 - [Ubicaciones](empresa/ubicaciones.md)
 - [Manufactura y capacidades](manufactura/capacidades.md)
 - [Innovación](manufactura/innovacion.md)
+- [Clientes, marcas y productos](clientes/clientes-y-marcas-red.md)
+- [Matriz SKU/evidencia](clientes/matriz-sku-evidencia.md)
+- [Evidencia comercial 2026](clientes/evidencia-comercial-2026.md)
 - [Productos y categorías](productos/catalogo-capacidades.md)
 - [Sostenibilidad](sostenibilidad/impacto.md)
 - [Certificaciones](sostenibilidad/certificaciones.md)
@@ -34,6 +60,18 @@ Grupo Hada obtuvo la certificación como Empresa B en julio de 2023 y B Lab regi
 - [Presencia digital y sitio web](tecnologia/presencia-digital.md)
 - [Cronología](cronologia.md)
 - [Fuentes](fuentes/fuentes.md)
+
+## Investigación especializada
+
+- Abastecimiento upstream y origen de mercancías.
+- Huella comercial y modelo de abastecimiento.
+- Orígenes mixtos Colombia/China.
+- Modelo proveedor vs. fabricante.
+- México, Cosméticos Trujillo y cadena Puig.
+- Keefe / Next / Elementz / Infuzed.
+- Competidores y posicionamiento.
+- Metodología y pendientes.
+- Actualizaciones diarias y series de iteraciones.
 
 ## Fuentes principales
 
@@ -51,11 +89,13 @@ Grupo Hada obtuvo la certificación como Empresa B en julio de 2023 y B Lab regi
 1. Priorizar fuentes primarias de Grupo Hada y organismos certificadores.
 2. Contrastar afirmaciones corporativas con fuentes externas cuando sea posible.
 3. Diferenciar claramente datos reportados por la empresa, datos de terceros e inferencias.
-4. Registrar la fecha de consulta y conservar los enlaces originales.
-5. No presentar como confirmado aquello que solo aparece como propuesta, estimación o marketing corporativo.
+4. Registrar fecha de consulta, fecha del dato y fuente original.
+5. Separar fabricante físico, proveedor/exportador, labeler, propietario de marca, origen y puerto.
+6. No presentar como confirmado aquello que solo aparece como propuesta, estimación, marketing corporativo o inferencia.
+7. Mantener las vacantes como una línea de seguimiento recurrente y evitar duplicados.
 
 ## Estado
 
 **Fase 1 — investigación base:** completada.
 
-El repositorio está preparado para añadir una segunda fase con mayor profundidad en: registros mercantiles, propiedad intelectual, prensa histórica, directivos públicamente identificables, mercados/clientes documentados, arquitectura técnica del sitio web y series históricas de indicadores ESG/financieros.
+**Fase 2 — investigación profunda:** en curso, con organización temática y seguimiento diario.
